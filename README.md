@@ -9,10 +9,14 @@
 
 ## Comandos principais do git
 
+`git config use.name`  e `git config use.email` 
+
+verificar usuário/email
+
+`git init` 
+
 Inicializar um repositório (executado dentro da pasta)
 
-git init 
+`git status`
 
 Verificar status atual do repositório
-
-git status
