@@ -13,6 +13,14 @@
 
 verificar usuário/email
 
+`git config --global user.name "Vitor Gama"` e 
+`git config --global user.email "vitorggam@hotmail.com"`
+
+Mudar usuário e e-mail de forma global.
+
+**obs:** normalmente estes dados estão relacionados ao 
+usuário/conta do site GitHub.
+
 `git init` 
 
 Inicializar um repositório (executado dentro da pasta)
