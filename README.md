@@ -25,6 +25,12 @@ usuário/conta do site GitHub.
 
 Inicializar um repositório (executado dentro da pasta)
 
+`git branch nome-branch-atual novo-nome-para-branch`
+
+Renomear Branches.
+
+Para alterar a branch de **master** para **main** (novo padrão), usariámaos: `git branch master main` 
+
 `git status`
 
 Verificar status atual do repositório
@@ -36,3 +42,11 @@ Adicionar (tornar arquivo rastreável) ao monitoramento do git.
 `git commit -m "Texto da mensagem sobre esta alteração"`
 
 Fazer commit das alterções (salvar no histórico)
+
+`git remote add origin endereço-do repositorio-git`
+
+Adicionar/conectar o repositório remoto ao local.
+
+`git clone endereço-do-repositório.git`
+
+Copiando/baixando um repositório para a maquina remota.
