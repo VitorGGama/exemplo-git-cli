@@ -47,6 +47,10 @@ Fazer commit das alterções (salvar no histórico)
 
 Adicionar/conectar o repositório remoto ao local.
 
+`git push origin main`
+
+Enviar as mudanças para o GitHub (PUSH)
+
 `git clone endereço-do-repositório.git`
 
 Copiando/baixando um repositório para a maquina remota.
